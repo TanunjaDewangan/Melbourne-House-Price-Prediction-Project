@@ -91,7 +91,9 @@ Streamlit – Web app deployment
 
 ## Key Insights
 -XGBoost had the best generalization with Test R² = 0.818.
+
 -Random Forest performed almost as well but was slightly overfitted.
+
 -Linear Regression is not suitable for this dataset due to its complexity and non-linearity.
 - Random Forest and XGBoost models significantly outperform Linear Regression.
 - XGBoost achieves the best balance between train and test accuracy.
